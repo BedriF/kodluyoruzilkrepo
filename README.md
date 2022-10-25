@@ -21,4 +21,4 @@ code .
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![markDownProjesi](https://pixabay.com/tr/photos/sabah%c4%b1n-erken-saatleri-g%c3%bcndo%c4%9fumu-7525151/)
+![markDownProjesi]([https://pixabay.com/tr/photos/sabah%c4%b1n-erken-saatleri-g%c3%bcndo%c4%9fumu-7525151/](https://github.com/BedriF/kodluyoruzilkrepo/blob/main/MarkDownProjesi.png))
